@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "Yi-Chun (Kevin) Liao" 
 title                    : "Yi-Chun (Kevin) Liao"
 title_separator          : "-"
-name                     : &name "Yi-Chun Liao"
+name                     : &name "Yi-Chun (Kevin) Liao"
 description              : &description "B.Sc. @ NTU CSIE"
 url                      : https://datou0718.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "datou0718/datou0718.github.io" # the name of your re
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yi-Chun Liao"
+  name             : "Yi-Chun (Kevin) Liao"
   pronouns         : # "he/him"  
   bio              : "B.Sc. @ NTU CSIE"
   location         : "Taipei, Taiwan"
