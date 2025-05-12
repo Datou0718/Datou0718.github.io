@@ -10,7 +10,7 @@ I'm Yi-Chun, a undergraduate student in [department of Computer Science and Info
 
 Research Interests
 ======
-As AI and ML have advanced formidably in recent years, numerous researchers have dived into these fields. However, much of the progress remains theoretical, and significant challenges still hinder real-world implementation. My research interests focus on bridging this gap through areas such as:
+Although AI and ML have advanced formidably in recent years, much of the progress remains either theoretical or resource-intensive, and significant challenges still hinder real-world implementation. My research interests focus on bridging this gap through areas such as:
 - Compute-in-Memory
 - Hardware-Software Codesign
 - Emerging Non-Volatile Memory (i.e., PCM, ReRAM, FeFET)
