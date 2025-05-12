@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Yi-Chun Liao" 
-title                    : "Yi-Chun Liao"
+site_theme               : "Yi-Chun (Kevin) Liao" 
+title                    : "Yi-Chun (Kevin) Liao"
 title_separator          : "-"
 name                     : &name "Yi-Chun Liao"
 description              : &description "B.Sc. @ NTU CSIE"
