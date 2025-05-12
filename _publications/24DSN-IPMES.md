@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/24DSN-IPMES
 excerpt: 'This work presents IPMES, a tool that efficiently detects TTPs with partial-ordering graph-based search.'
-date: 2024-06
+date: 2024-06-24
 venue: 'International Conference on Dependable Systems and Networks (DSN)'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/24DSN-IPMES.pdf'
